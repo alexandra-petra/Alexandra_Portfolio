@@ -43,3 +43,5 @@ Simple Decision Tree model to chose a medical drug for a future patient using sk
 # [ Project 5: RAN Feedback Analysis](https://github.com/alexandra-petra/RAN-feedback-analysis)
 
 Simple word frequency analysis and wordcloud on Human Brain Institute clinic in St. Petersburg using nltk and textblob
+
+![alt text] (https://i.imgur.com/hPBU2DS.png)
