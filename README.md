@@ -5,6 +5,8 @@ Example data science portfolio
 
 Simple Decision Tree model to chose a medical drug for a future patient using sklearn.
 
+![alt text](https://i.imgur.com/nbk6bp5.png)
+
 
 
 # [Project 2: Mops Or Dogs? Computer Vision Project for Image Detection](https://github.com/alexandra-petra/mops-or-dogs)
