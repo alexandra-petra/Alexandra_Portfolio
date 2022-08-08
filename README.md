@@ -5,7 +5,7 @@ Example data science portfolio
 
 Simple Decision Tree model to chose a medical drug for a future patient using sklearn.
 
-![alt text](https://i.imgur.com/nbk6bp5.png)
+![alt text](https://i.imgur.com/ItIYIDJ.png)
 
 
 
@@ -20,7 +20,7 @@ Simple Decision Tree model to chose a medical drug for a future patient using sk
 
 # [Project 3: Comparision Of Several ML Models For Price Prediction](https://github.com/alexandra-petra/Price-Prediction-Model-Comparision)
 
-![alt text](https://images.unsplash.com/file-1636585210491-f28ca34ea8ecimage)
+![alt text](https://i.imgur.com/wCGcnnl.jpg)
 
 - performed several ML on the same dataset, for two datasets  scrapped from tsenomer.ru: for Moscow and St. Petersburg.
 - First round, with St. Petersburg prices, resulted in poor performance of the models, however, the winning one was XBoost. However, we came to conclusion, that models were overfitted, and continued the experiment.
@@ -33,7 +33,7 @@ Simple Decision Tree model to chose a medical drug for a future patient using sk
 
 # [Project 4: Dividing Humanity Into 10 Types According To Big Five Personality Test](https://github.com/alexandra-petra/10-peronality-types)
 
-![alt text](https://i.imgur.com/Zf9yfeu.jpg)
+![alt text](https://i.imgur.com/GeCNBI2.jpg)
 
 - downloaded 1 mln row dataset from https://www.kaggle.com/datasets/tunguz/big-five-personality-test
 - used k-means algorithm to distribute all the people into 10 personality types
