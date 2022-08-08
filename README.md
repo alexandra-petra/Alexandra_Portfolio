@@ -9,12 +9,16 @@ Simple Decision Tree model to chose a medical drug for a future patient using sk
 
 
 
+
+
 # [Project 2: Mops Or Dogs? Computer Vision Project for Image Detection](https://github.com/alexandra-petra/mops-or-dogs)
 
 ![Alt Text](https://imgur.com/maJC8ma.gif)
 
 - Keras ML model built on Tensorflow
 - defines a class of an image, or, in my example, classifies whether a given image represents a long haired dog of the comandor breed, or is it a simple mop
+
+
 
 
 
@@ -31,12 +35,16 @@ Simple Decision Tree model to chose a medical drug for a future patient using sk
 
 
 
+
+
 # [Project 4: Dividing Humanity Into 10 Types According To Big Five Personality Test](https://github.com/alexandra-petra/10-peronality-types)
 
 ![alt text](https://i.imgur.com/GeCNBI2.jpg)
 
 - downloaded 1 mln row dataset from https://www.kaggle.com/datasets/tunguz/big-five-personality-test
 - used k-means algorithm to distribute all the people into 10 personality types
+
+
 
 
 
