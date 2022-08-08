@@ -44,4 +44,4 @@ Simple Decision Tree model to chose a medical drug for a future patient using sk
 
 Simple word frequency analysis and wordcloud on Human Brain Institute clinic in St. Petersburg using nltk and textblob
 
-![alt text] (https://i.imgur.com/hPBU2DS.png)
+![alt text](https://i.imgur.com/hPBU2DS.png)
